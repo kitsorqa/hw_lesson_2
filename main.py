@@ -1,5 +1,5 @@
 def print_hi(name):
-    print(f"Hello, {name}")
+    print(f"Hello, {name} :) Have a nice day!")
 
 
 if __name__ == '__main__':
